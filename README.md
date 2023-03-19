@@ -7,4 +7,6 @@ The MTCNN algorithm detects faces in images and applies three deep neural networ
 
 ## Dataset
 
-The dataset used to train the classification network consists of 1,915 images of people wearing face masks and 1,918 images of people not wearing face masks. The images were collected from various online sources and manually labeled by human annotators.
+The dataset used to train the classification network consists of 1,915 images of people wearing face masks and 1,918 images of people not wearing face masks. The images were collected from various online sources and manually labeled by human annotators. To access the dataset images, use the link given below.
+
+### Dataset link:- https://drive.google.com/drive/folders/1moDsIb43Nk7H8p4gtkv9f6PJ7vPvO4Zp?usp=sharing
